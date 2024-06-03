@@ -1,0 +1,17 @@
+/*Add new*/
+#plus {
+    width: 20em;
+    height: 15em;
+    background-color: rgb(220, 220, 230);
+    margin: 1%;
+    margin-top: 5%;
+    border-style: solid;
+    border-radius: 1em;
+    border-color: rgb(180, 180, 190);
+    border-width: 0.5em;
+}
+#pplus {
+    text-align: center;
+    color: rgb(180, 180, 190);
+    font-size: 1.5em;
+}
